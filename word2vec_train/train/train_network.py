@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Author: JCF
-# Copyright 2017 @ Yu Zhen
+# Copyright 2017 @ JCF
 
 import gensim
 import logging
